@@ -1,2 +1,3 @@
-# spirit-stone-tester-builds
-Tester downloads.
+# Tester Downloads
+
+Use the Releases page for current test builds.
